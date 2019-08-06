@@ -1,0 +1,16 @@
+.option {
+ width: 250px;
+}
+
+
+#picAnswer {
+    width: 300px;
+}
+body {
+    max-width: 75%;
+    margin: auto;
+    background-color: #DB10AD;
+}
+p   {
+    font-size:  25px;
+}
